@@ -1,0 +1,14 @@
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.csproj.CoreCompileInputs.cache
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.AssemblyInfoInputs.cache
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.AssemblyInfo.cs
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\bin\Debug\netcoreapp2.1\GenerateKey.deps.json
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\bin\Debug\netcoreapp2.1\GenerateKey.runtimeconfig.json
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\bin\Debug\netcoreapp2.1\GenerateKey.runtimeconfig.dev.json
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\bin\Debug\netcoreapp2.1\GenerateKey.dll
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.csprojAssemblyReference.cache
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.RazorAssemblyInfo.cache
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.RazorAssemblyInfo.cs
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.RazorTargetAssemblyInfo.cache
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\bin\Debug\netcoreapp2.1\GenerateKey.pdb
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.dll
+C:\Users\DChaudhar\source\repos\GenerateKey\GenerateKey\obj\Debug\netcoreapp2.1\GenerateKey.pdb
