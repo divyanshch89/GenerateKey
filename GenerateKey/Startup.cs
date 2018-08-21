@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GenerateKey.DAL;
+using GenerateKey.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -42,6 +44,7 @@ namespace GenerateKey
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            DocumentDBRepository<WOModel>.Initialize();
         }
     }
 }

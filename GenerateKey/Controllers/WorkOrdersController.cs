@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GenerateKey.DAL;
+using GenerateKey.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,9 +15,9 @@ namespace GenerateKey.Controllers
     {
         // GET: api/WorkOrders
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "WO1", "WO2" };
+            return "Test";
         }
 
 
@@ -31,7 +33,7 @@ namespace GenerateKey.Controllers
 
             return Ok(StatusCodes.Status200OK);
         }
- 
+
     }
 
 }
